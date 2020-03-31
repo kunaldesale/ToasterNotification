@@ -1,0 +1,8 @@
+C:\Users\Kunal.Desale\source\repos\XamarinTestApp\XamarinTestApp.Common\bin\Debug\netstandard2.0\XamarinTestApp.Common.deps.json
+C:\Users\Kunal.Desale\source\repos\XamarinTestApp\XamarinTestApp.Common\bin\Debug\netstandard2.0\XamarinTestApp.Common.dll
+C:\Users\Kunal.Desale\source\repos\XamarinTestApp\XamarinTestApp.Common\bin\Debug\netstandard2.0\XamarinTestApp.Common.pdb
+C:\Users\Kunal.Desale\source\repos\XamarinTestApp\XamarinTestApp.Common\obj\Debug\netstandard2.0\XamarinTestApp.Common.csprojAssemblyReference.cache
+C:\Users\Kunal.Desale\source\repos\XamarinTestApp\XamarinTestApp.Common\obj\Debug\netstandard2.0\XamarinTestApp.Common.AssemblyInfoInputs.cache
+C:\Users\Kunal.Desale\source\repos\XamarinTestApp\XamarinTestApp.Common\obj\Debug\netstandard2.0\XamarinTestApp.Common.AssemblyInfo.cs
+C:\Users\Kunal.Desale\source\repos\XamarinTestApp\XamarinTestApp.Common\obj\Debug\netstandard2.0\XamarinTestApp.Common.dll
+C:\Users\Kunal.Desale\source\repos\XamarinTestApp\XamarinTestApp.Common\obj\Debug\netstandard2.0\XamarinTestApp.Common.pdb
